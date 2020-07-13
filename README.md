@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Machine Learining, Deep Learning & AI Projects 
 - 🤔 I’m looking for help with to guide me how effectively use data structures in machine problem solving's.
 - 💬 I'm Open to chat about Machine Learning and Problem Solving
-- 📫 How to reach me: Mail: lavakumarfire999@gmail.com, Linkedin: https://www.linkedin.com/in/lavakumar287/, Website: http://lavakumarthatisetti.github.io/
+- 📫 How to reach me: Mail: lavakumarfire999@gmail.com, Linkedin: https://www.linkedin.com/in/lavakumar287/.
+- 🌐 Website: http://lavakumarthatisetti.github.io/
 
