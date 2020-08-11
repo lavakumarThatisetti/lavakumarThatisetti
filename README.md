@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 http://lavakumarthatisetti.github.io/
 
 Interest in Coding and Development, Problem Solving ,eager to Learn new Technologies, Freelancer, Published papers to Journals.
 1. Experience in Data Science worked on projects like sentimental Analysis, Twitter Analysis, clustering algorthims.
@@ -11,9 +11,14 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Full Stack Developer @ DBS
 - 🌱 I’m currently learning Machine learning & AWS
-- 👯 I’m looking to collaborate on Machine Learining, Deep Learning & AI Projects 
-- 🤔 I’m looking for help with to guide me how effectively use data structures in machine problem solving's.
-- 💬 I'm Open to chat about Machine Learning and Problem Solving
-- 📫 How to reach me: Mail: lavakumarfire999@gmail.com, Linkedin: https://www.linkedin.com/in/lavakumar287/.
-- 🌐 Website: http://lavakumarthatisetti.github.io/
+- 👯 I was intrested in Machine Learning and AI related Projects
+- 🤔 My Daytastructures and Problem solving github repo: https://github.com/lavakumarThatisetti/DataStrcutures ( Constantly Improving)
+- 💬 I was more enthusiastic in Starups and ideas
+- **How to reach me**
+  📫: lavakumarfire999@gmail.comLinkedin: 
+  LinkedIn: https://www.linkedin.com/in/lavakumar287/.
+  🌐: http://lavakumarthatisetti.github.io/ 
+  twitter: https://twitter.com/lavkumar_t
+  
+  Keep Learning and Keep growing ❤
 
