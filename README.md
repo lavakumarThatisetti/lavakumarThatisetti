@@ -19,6 +19,7 @@ Here are some ideas to get you started:
   LinkedIn: https://www.linkedin.com/in/lavakumar287/<br/>
   🌐: http://lavakumarthatisetti.github.io/ <br/>
   twitter: https://twitter.com/lavkumar_t<br/>
+  instagram: https://www.instagram.com/lavakumar287/ <br/>
   
   Keep Learning and Keep growing ❤
 
