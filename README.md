@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 👯 I was intrested in Machine Learning and AI related Projects
 - 🤔 My Daytastructures and Problem solving github repo: https://github.com/lavakumarThatisetti/DataStrcutures ( Constantly Improving)
 - 💬 I was more enthusiastic in Starups and ideas
-- **How to reach me**
+- **How to reach me**<br/>
   📫: lavakumarfire999@gmail.com<br/> 
   LinkedIn: https://www.linkedin.com/in/lavakumar287/<br/>
   🌐: http://lavakumarthatisetti.github.io/ <br/>
