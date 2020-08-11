@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - 🤔 My Daytastructures and Problem solving github repo: https://github.com/lavakumarThatisetti/DataStrcutures ( Constantly Improving)
 - 💬 I was more enthusiastic in Starups and ideas
 - **How to reach me**
-  📫: lavakumarfire999@gmail.comLinkedin: 
-  LinkedIn: https://www.linkedin.com/in/lavakumar287/.
-  🌐: http://lavakumarthatisetti.github.io/ 
-  twitter: https://twitter.com/lavkumar_t
+  📫: lavakumarfire999@gmail.com<br/> 
+  LinkedIn: https://www.linkedin.com/in/lavakumar287/<br/>
+  🌐: http://lavakumarthatisetti.github.io/ <br/>
+  twitter: https://twitter.com/lavkumar_t<br/>
   
   Keep Learning and Keep growing ❤
 
