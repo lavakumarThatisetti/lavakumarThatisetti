@@ -1,4 +1,4 @@
-### Hi there 👋 http://lavakumarthatisetti.github.io/
+### Hi there 👋 [Lavakumar Techie](https://www.youtube.com/@lavakumar_techie?sub_confirmation=1)
 
 Interest in Coding and Development, Problem Solving ,eager to Learn new Technologies, Freelancer, Published papers to Journals.
 1. Experience in Data Science worked on projects like sentimental Analysis, Twitter Analysis, clustering algorthims.
