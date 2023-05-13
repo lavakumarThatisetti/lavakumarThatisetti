@@ -9,8 +9,8 @@ Familier with libraries like Pandas,Numpy,Sklearn,scikit-learn,Scipy,tensorflow,
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Software Developer @ DBS
-- 🌱 I’m currently learning Machine learning & AWS
+- 🔭 I’m currently working on Software Developer 2 @ Atlassian
+- 🌱 I’m currently exploring Machine learning & AI
 - 👯 I was intrested in Machine Learning and AI related Projects
 - 🤔 My Daytastructures and Problem solving github repo: https://github.com/lavakumarThatisetti/DataStrcutures ( Constantly Improving)
 - 💬 I was more enthusiastic in Starups and ideas
